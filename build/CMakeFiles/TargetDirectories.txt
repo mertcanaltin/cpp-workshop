@@ -1,0 +1,3 @@
+/Users/mertcanaltin/Desktop/projects/cpp-workshop/build/CMakeFiles/my_project.dir
+/Users/mertcanaltin/Desktop/projects/cpp-workshop/build/CMakeFiles/edit_cache.dir
+/Users/mertcanaltin/Desktop/projects/cpp-workshop/build/CMakeFiles/rebuild_cache.dir
